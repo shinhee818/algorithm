@@ -1,4 +1,4 @@
-
+package baekjoon;
 import java.util.Scanner;
 
 public class baekjoon1152 {
@@ -13,4 +13,5 @@ public class baekjoon1152 {
         }
 
     }
+    
 }
