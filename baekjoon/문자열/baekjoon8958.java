@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.문자열;
 import java.util.Arrays;
 import java.util.Scanner;
 
